@@ -13,18 +13,17 @@ Cheatsheet for the basic Vim Commands
 
 ## Moving around 
 
-- `h      Moving the Cursor to the left`
-- `l      Moving the Cursor to the right`
-- `k      Moving the Cursor up`
-- `gk     Moving the Cursor up even in line-breaks`
-- `j      Moving the Cursor down`
-- `gj     Moving the Cursor down even in line-breaks`
-
-- `b      Moving the Cursor one Word back`
-- `Xb     Moving the Cursor X Word back`
-- `w      Moving the Cursor one Word forward`
-- `Xw     Moving the Cursor X Words forward`
-- `gg     Moving the Cursor to the Beginning of the File`
+- `h\tMoving the Cursor to the left`
+- `l\tMoving the Cursor to the right`
+- `k\tMoving the Cursor up`
+- `gk\tMoving the Cursor up even in line-breaks`
+- `j\tMoving the Cursor down`
+- `gj\tMoving the Cursor down even in line-breaks`
+- `b\ttMoving the Cursor one Word back`
+- `Xb\tMoving the Cursor X Word back`
+- `w\tMoving the Cursor one Word forward`
+- `Xw\tMoving the Cursor X Words forward`
+- `gg\tMoving the Cursor to the Beginning of the File`
 - `G      Moving the Cursor to the End of the File`
 - `0      Moving the Cursor to the Beginning of the Line`
 - `$      Moving the Cursor to the End of the Line`
