@@ -16,6 +16,7 @@ Cheatsheet for the basic Vim Commands
 - `h` Moving the Cursor to the left
 - `l` Moving the Cursor to the right
 - `k` Moving the Cursor up
+- `o` Adding a line below in Insert Mode
 - `gk` Moving the Cursor up even in line-breaks
 - `j` Moving the Cursor down
 - `gj` Moving the Cursor down even in line-breaks
