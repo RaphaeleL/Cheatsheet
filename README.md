@@ -26,9 +26,9 @@ Cheatsheet for the basic Vim Commands
 - `Xb` Moving the Cursor X Word back
 - `w` Moving the Cursor one Word forward
 - `Xw` Moving the Cursor X Words forward
-- `Xj` Moving the Cursor X lines down 
-- `Xk` Moving the Cursor X lines up 
-- `Xh` Moving the Cursor X chars left 
+- `Xj` Moving the Cursor X lines down
+- `Xk` Moving the Cursor X lines up
+- `Xh` Moving the Cursor X chars left
 - `Xl` Moving the Cursor X chars right
 - `gg` Moving the Cursor to the Beginning of the File
 - `G` Moving the Cursor to the End of the File
@@ -47,7 +47,9 @@ Cheatsheet for the basic Vim Commands
 
 - `rX` Replace the current Character with an X
 - `x` Deletes the current Character
-- `dw` Deletes the current Word
+- `x` Deletes the current Character
+- `dw` Deletes the current Word from the actuall position
+- `ciw` Deletes the current Word
 - `db` Deletes until Beginning
 - `ce` Deletes the current Word and go to Insert Mode
 - `dXw` Deletes the next X Words
