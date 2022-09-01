@@ -13,6 +13,8 @@ Cheatsheet for the basic Vim Commands
 
 ## Moving around
 
+- `^d` Moving a Page down
+- `^u` Moving a Page up
 - `h` Moving the Cursor to the left
 - `l` Moving the Cursor to the right
 - `k` Moving the Cursor up
@@ -24,6 +26,10 @@ Cheatsheet for the basic Vim Commands
 - `Xb` Moving the Cursor X Word back
 - `w` Moving the Cursor one Word forward
 - `Xw` Moving the Cursor X Words forward
+- `Xj` Moving the Cursor X lines down 
+- `Xk` Moving the Cursor X lines up 
+- `Xh` Moving the Cursor X chars left 
+- `Xl` Moving the Cursor X chars right
 - `gg` Moving the Cursor to the Beginning of the File
 - `G` Moving the Cursor to the End of the File
 - `0` Moving the Cursor to the Beginning of the Line
