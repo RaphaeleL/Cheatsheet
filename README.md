@@ -42,6 +42,10 @@ Cheatsheet for the basic Vim Commands
 - `)` Go to the next Sentence
 - `>` Indent
 - `<` Unindent
+- `O` Insert a line above with Insert Mode
+- `o` Insert a line below with Insert Mode
+- `I` moves the cursor to the beginning of the line with Insert Mode
+- `A` moves the cursor to the end of the line with Insert Mode
 
 ## Edit Text
 
