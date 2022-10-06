@@ -34,9 +34,12 @@
 
 - `C-u20w` Insert 20 'w's
 - `M-k` Kill (cut) to end of sentence
-- `C-` Set mark
-- `C-y` Yank (paste)
+- `C-y` Yank 
 - `M-y` Previous yank
+
+- `C-w` Cut 
+- `M-w` Copy 
+- `C-y` Paste
 
 ## File Management
 
@@ -44,7 +47,9 @@
 - `C-xC-s` Save file
 - `C-xC-b` List buffers
 - `C-xb` Switch to buffer
-- `C-xs` Save buffers
+- `C-xso` Save buffers
+- `C-xk` Delete Buffer
+- `C-xo` Switch Windows
 
 ## Misc
 
