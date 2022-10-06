@@ -1,5 +1,13 @@
 # Emacs
 
+## Special Chars
+
+- `alt + 5` [
+- `alt + 5` ]
+- `strg + alt + 8` {
+- `strg + alt + 9` }
+
+
 ## Text Navigation Beginner
 
 - `C-f` Move forward a char
