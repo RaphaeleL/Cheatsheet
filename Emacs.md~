@@ -1,0 +1,63 @@
+# Emacs
+
+## Text Navigation Beginner
+
+- C-fMove forward a char
+- C-bMove backward a char
+- M-fMove forward a word
+- M-bMove backward a word
+- C-vMove forward a screen
+- M-vMove backward a screen
+- C-pMove to previous line
+- C-aMove to beginning of line
+- C-eMove to end of line
+- M-aMove to beginning of sentence
+- M-eMove to end of sentence
+- M-<Move to beginning of doc
+- M->Move to end of doc
+
+## Text Editing Beginner
+
+- BACKSPACEDelete previous char
+- C-dDelete next char
+- M-BACKSPACEKill (cut) previous word
+- M-dKill (cut) next word
+- C-/Undo
+
+## Text Navigation Intermediate
+
+- C-u8C-fMove forward 8 chars
+- C-u6C-pMove up 6 lines
+- C-u9C-bMove backward 9 chars
+- Text Editing Intermediate
+- C-u20wInsert 20 'w's
+- M-kKill (cut) to end of sentence
+- C-Set mark
+- C-yYank (paste)
+- M-yPrevious yank
+- File Management
+- C-xC-fFind a file
+- C-xC-sSave file
+- C-xC-bList buffers
+- C-xbSwitch to buffer
+- C-xsSave buffers
+
+## Misc
+
+- C-x4C-fFind in other window
+- M-xrepl s↵Replace string
+- ESCESCESCGet out of current command
+- M-xtext-mode↵Text mode
+- C-x0C-lScroll line to top of screen
+- C-xC-cClose emacs
+- C-zSuspend emacs
+- C-gStop command
+- C-x2Open 2 windows
+- C-x1Open 1 window
+
+## M-x fundamental-mode
+
+- C-sIncremental search
+- C-xoChange windows
+- M-C-vScroll other window
+- C-haCommand apropos
