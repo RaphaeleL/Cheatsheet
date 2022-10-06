@@ -30,7 +30,7 @@
 - `C-u6C-p` Move up 6 lines
 - `C-u9C-b` Move backward 9 chars
 
-## Text Editing Intermediate
+## Text Editing
 
 - `C-u20w` Insert 20 'w's
 - `M-k` Kill (cut) to end of sentence
@@ -62,4 +62,4 @@
 - `C-s` Incremental search
 - `C-xo` Change windows
 - `M-C-v` Scroll other window
-  `- `C-ha` Command apropos
+- `C-ha` Command apropos
