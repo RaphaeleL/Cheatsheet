@@ -34,11 +34,11 @@
 
 - `C-u20w` Insert 20 'w's
 - `M-k` Kill (cut) to end of sentence
-- `C-y` Yank 
+- `C-y` Yank
 - `M-y` Previous yank
 
-- `C-w` Cut 
-- `M-w` Copy 
+- `C-w` Cut
+- `M-w` Copy
 - `C-y` Paste
 
 ## File Management
@@ -68,3 +68,8 @@
 - `C-xo` Change windows
 - `M-C-v` Scroll other window
 - `C-ha` Command apropos
+
+## Dired
+
+- `C-ud` Delete a File
+- `C-xC-f` Create a File
