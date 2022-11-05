@@ -34,7 +34,6 @@ Cheatsheet for the basic Vim Commands
 - `G` Moving the Cursor to the End of the File
 - `0` Moving the Cursor to the Beginning of the Line
 - `$` Moving the Cursor to the End of the Line
-- `A` Moving the Cursor to the End of the Line in Insert Mode
 - `:abc` Go to the Line Number abc
 - `L` Go to the last Line on Screen
 - `M` Go to the last Middle on Screen
@@ -46,6 +45,15 @@ Cheatsheet for the basic Vim Commands
 - `o` Insert a line below with Insert Mode
 - `I` moves the cursor to the beginning of the line with Insert Mode
 - `A` moves the cursor to the end of the line with Insert Mode
+- `i` moves the cursor to the beginning of the character with Insert Mode
+- `i` moves the cursor to the end of the character with Insert Mode
+
+- `fx` moves to the first Character `x`
+- `Fx` moves to the first Character `x` backwards
+- `tx`ves to the first Character `x` but not on it, just before
+- `Tx` moves to the first Character `x` but not on it, just before, backwards
+- `,` do it again backwards
+- `;` do it again forwards
 
 ## Edit Text
 
@@ -68,6 +76,29 @@ Cheatsheet for the basic Vim Commands
 - `p` Put Buffer after cursor
 - `gU` Uppercase
 - `gu` Lowercase
+
+- `df(` delete everything until the `(` Character
+- `dt(` delete everything before the `(` Character
+- `dF(` delete everything until the `(` Character but backwards
+- `dT(` delete everything before the `(` Character but backwards
+- `d,` do it again backwards
+- `d;` do it again forwards
+
+- `yf(` yank everything until the `(` Character
+- `yt(` yank everything before the `(` Character
+- `yF(` yank everything until the `(` Character but backwards
+- `yT(` yank everything before the `(` Character but backwards
+- `y,` do it again backwards
+- `y;` do it again forwards
+
+- `vf(` select everything until the `(` Character
+- `vt(` select everything before the `(` Character
+- `vF(` select everything until the `(` Character but backwards
+- `vT(` select everything before the `(` Character but backwards
+- `v,` do it again backwards
+- `v;` do it again forwards
+
+
 
 ## Exit Vim
 
