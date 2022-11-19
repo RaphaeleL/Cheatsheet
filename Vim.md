@@ -55,6 +55,8 @@ Cheatsheet for the basic Vim Commands
 - `,` do it again backwards
 - `;` do it again forwards
 
+- `gf` Jumps to an File (e.g. Open an Imported File -> import "path/to/file.lua")
+
 ## Edit Text
 
 - `rX` Replace the current Character with an X
