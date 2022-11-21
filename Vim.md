@@ -35,8 +35,9 @@ Cheatsheet for the basic Vim Commands
 - `0` Moving the Cursor to the Beginning of the Line
 - `$` Moving the Cursor to the End of the Line
 - `:abc` Go to the Line Number abc
-- `L` Go to the last Line on Screen
+- `H` Go to the last Middle on Screen
 - `M` Go to the last Middle on Screen
+- `L` Go to the last Line on Screen
 - `(` Go to the previous Sentence
 - `)` Go to the next Sentence
 - `>` Indent
