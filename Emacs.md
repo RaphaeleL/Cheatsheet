@@ -7,7 +7,6 @@
 - `strg + alt + 8` {
 - `strg + alt + 9` }
 
-
 ## Text Navigation Beginner
 
 - `C-f` Move forward a char
