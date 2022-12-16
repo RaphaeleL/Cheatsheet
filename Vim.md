@@ -60,6 +60,7 @@ Cheatsheet for the basic Vim Commands
 
 ## Edit Text
 
+- `=` Align Selection
 - `u` Make Selection Lowercase
 - `U` Make Selection Uppercase
 - `rX` Replace the current Character with an X
@@ -102,8 +103,6 @@ Cheatsheet for the basic Vim Commands
 - `vT(` select everything before the `(` Character but backwards
 - `v,` do it again backwards
 - `v;` do it again forwards
-
-
 
 ## Exit Vim
 
