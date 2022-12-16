@@ -60,6 +60,8 @@ Cheatsheet for the basic Vim Commands
 
 ## Edit Text
 
+- `u` Make Selection Lowercase
+- `U` Make Selection Uppercase
 - `rX` Replace the current Character with an X
 - `x` Deletes the current Character
 - `x` Deletes the current Character
