@@ -150,3 +150,19 @@ Cheatsheet for the basic Vim Commands
 - `.\{-}\` Match any character 0 or more times in a non-greedy way
 - `.\{.*}\` Match as little as possible, and not as much as possible
 - `abc` Match abc
+
+### Netrw 
+
+- `%` Open a new file in netrw's current directory
+- `d` Make a directory
+- `D` Attempt to remove the file(s)/directory(ies)
+- `p` Preview the File
+- `R` Rename the designated file(s)/directory(ies)
+- `-` Makes Netrw go up one directory
+
+
+
+
+
+
+
