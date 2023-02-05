@@ -2,7 +2,7 @@
 
 Cheatsheet for the basic Vim Commands
 
-> this is normaly enough. Type `vimtutor` for more.
+> this is normaly enough. Type `vimtutor` for more or visit [quickref.me](https://quickref.me/vim)
 
 ## Modes
 

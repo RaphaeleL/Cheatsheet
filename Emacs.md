@@ -41,7 +41,6 @@
 
 - `C-u20w` Insert 20 'w's
 - `M-k` Kill (cut) to end of sentence
-- `C-y` Yank
 - `M-y` Previous yank
 
 - `C-w` Cut
@@ -70,7 +69,7 @@
 - `C-g` Stop command
 - `C-x2` Open 2 windows
 - `C-x1` Open 1 window
-- `M-x fundamental-mode <enter> Fundamental Mode
+- `M-x` fundamental-mode <enter> Fundamental Mode
 - `C-s` Incremental search
 - `C-xo` Change windows
 - `M-C-v` Scroll other window
