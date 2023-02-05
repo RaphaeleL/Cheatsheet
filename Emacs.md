@@ -1,12 +1,5 @@
 # Emacs
 
-## Special Chars
-
-- `alt + 5` [
-- `alt + 5` ]
-- `strg + alt + 8` {
-- `strg + alt + 9` }
-
 ## Text Navigation Beginner
 
 - `C-f` Move forward a char
@@ -88,3 +81,10 @@
 
 - `C-ud` Delete a File
 - `C-xC-f` Create a File
+
+## Windows 
+
+- `C-x 2` Horizontal Split 
+- `C-x 3` Vertical Split 
+- `C-x o` Move around 
+- `C-x 0` Close Split
