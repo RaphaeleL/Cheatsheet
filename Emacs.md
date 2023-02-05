@@ -80,6 +80,9 @@
 - `<Tab>` Preview Changes
 - `s` git add <file>
 - `cc` git add <file>
+	- Type in the Commit Message, save and leave
+
+- `pp` git push 
 
 ## Dired
 
