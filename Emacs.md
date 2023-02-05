@@ -75,6 +75,12 @@
 - `M-C-v` Scroll other window
 - `C-ha` Command apropos
 
+## Magit 
+
+- `<Tab>` Preview Changes
+- `s` git add <file>
+- `cc` git add <file>
+
 ## Dired
 
 - `C-ud` Delete a File
