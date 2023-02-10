@@ -104,6 +104,11 @@ Cheatsheet for the basic Vim Commands
 - `v,` do it again backwards
 - `v;` do it again forwards
 
+- `da)` Delete around Brackets 
+- `da}` Delete around Curly Brackets 
+- `dap` Delete around Paragraph 
+- `vaw` Visually select around word 
+
 ## Exit Vim
 
 - `:q!` Force to Exit
