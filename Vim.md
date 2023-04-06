@@ -2,11 +2,8 @@
 
 Cheatsheet for the basic Vim Commands
 
-<<<<<<< HEAD
-=======
-> this is normaly enough. Type `vimtutor` for more or visit [quickref.me](https://quickref.me/vim)
+> Raphaele Salvatore Licciardo, B.Sc.
 
->>>>>>> 251b3ad36ca87c79635c41e7a3155df5984fac55
 ## Modes
 
 - Insert Mode: Entering with `i`
@@ -14,7 +11,7 @@ Cheatsheet for the basic Vim Commands
 - Command Mode: Entering with `:`
 - Replace Mod: Entering with `:s`
 
-- Theoretically there are more Modes like 'x` and `-y` but they are ugly. So don't use them!
+- Theoretically there are more Modes like `x` and `-y` but they are ugly. So don't use them!
 
 ## Moving around
 
@@ -103,15 +100,11 @@ Cheatsheet for the basic Vim Commands
 - `vT(` select everything before the `(` Character but backwards
 - `v,` do it again backwards
 - `v;` do it again forwards
-
-<<<<<<< HEAD
-=======
 - `da)` Delete around Brackets 
 - `da}` Delete around Curly Brackets 
 - `dap` Delete around Paragraph 
 - `vaw` Visually select around word 
 
->>>>>>> 251b3ad36ca87c79635c41e7a3155df5984fac55
 ## Exit Vim
 
 - `:q!` Force to Exit
@@ -150,7 +143,7 @@ Cheatsheet for the basic Vim Commands
 
 ### Regular Expressions
 
-> this is normaly enough but (Vim) Regular Expressoins are like Rocket Science to me, so see [this](http://www.vimregex.com/) for more.
+> this is normaly enough, but see [this](http://www.vimregex.com/) for more.
 
 - `^#` Match the Character #
 - `\(` Start a Group
@@ -167,10 +160,3 @@ Cheatsheet for the basic Vim Commands
 - `p` Preview the File
 - `R` Rename the designated file(s)/directory(ies)
 - `-` Makes Netrw go up one directory
-
-
-
-
-
-
-

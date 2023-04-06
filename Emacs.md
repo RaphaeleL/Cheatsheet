@@ -1,5 +1,7 @@
 # Emacs
 
+> Raphaele Salvatore Licciardo, B.Sc.
+
 ## Text Navigation Beginner
 
 - `C-f` Move forward a char
