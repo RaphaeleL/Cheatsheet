@@ -2,6 +2,11 @@
 
 Cheatsheet for the basic Vim Commands
 
+<<<<<<< HEAD
+=======
+> this is normaly enough. Type `vimtutor` for more or visit [quickref.me](https://quickref.me/vim)
+
+>>>>>>> 251b3ad36ca87c79635c41e7a3155df5984fac55
 ## Modes
 
 - Insert Mode: Entering with `i`
@@ -58,6 +63,9 @@ Cheatsheet for the basic Vim Commands
 
 ## Edit Text
 
+- `=` Align Selection
+- `u` Make Selection Lowercase
+- `U` Make Selection Uppercase
 - `rX` Replace the current Character with an X
 - `x` Deletes the current Character
 - `x` Deletes the current Character
@@ -96,6 +104,14 @@ Cheatsheet for the basic Vim Commands
 - `v,` do it again backwards
 - `v;` do it again forwards
 
+<<<<<<< HEAD
+=======
+- `da)` Delete around Brackets 
+- `da}` Delete around Curly Brackets 
+- `dap` Delete around Paragraph 
+- `vaw` Visually select around word 
+
+>>>>>>> 251b3ad36ca87c79635c41e7a3155df5984fac55
 ## Exit Vim
 
 - `:q!` Force to Exit
@@ -142,3 +158,19 @@ Cheatsheet for the basic Vim Commands
 - `.\{-}\` Match any character 0 or more times in a non-greedy way
 - `.\{.*}\` Match as little as possible, and not as much as possible
 - `abc` Match abc
+
+### Netrw 
+
+- `%` Open a new file in netrw's current directory
+- `d` Make a directory
+- `D` Attempt to remove the file(s)/directory(ies)
+- `p` Preview the File
+- `R` Rename the designated file(s)/directory(ies)
+- `-` Makes Netrw go up one directory
+
+
+
+
+
+
+

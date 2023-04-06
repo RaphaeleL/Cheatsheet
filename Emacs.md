@@ -1,12 +1,5 @@
 # Emacs
 
-## Special Chars
-
-- `alt + 5` [
-- `alt + 5` ]
-- `strg + alt + 8` {
-- `strg + alt + 9` }
-
 ## Text Navigation Beginner
 
 - `C-f` Move forward a char
@@ -41,7 +34,6 @@
 
 - `C-u20w` Insert 20 'w's
 - `M-k` Kill (cut) to end of sentence
-- `C-y` Yank
 - `M-y` Previous yank
 
 - `C-w` Cut
@@ -70,13 +62,29 @@
 - `C-g` Stop command
 - `C-x2` Open 2 windows
 - `C-x1` Open 1 window
-- `M-x fundamental-mode <enter> Fundamental Mode
+- `M-x` fundamental-mode <enter> Fundamental Mode
 - `C-s` Incremental search
 - `C-xo` Change windows
 - `M-C-v` Scroll other window
 - `C-ha` Command apropos
 
+## Magit 
+
+- `<Tab>` Preview Changes
+- `s` git add <file>
+- `cc` git add <file>
+	- Type in the Commit Message, save and leave
+
+- `pp` git push 
+
 ## Dired
 
 - `C-ud` Delete a File
 - `C-xC-f` Create a File
+
+## Windows 
+
+- `C-x 2` Horizontal Split 
+- `C-x 3` Vertical Split 
+- `C-x o` Move around 
+- `C-x 0` Close Split
