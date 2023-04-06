@@ -2,14 +2,14 @@
 
 Cheatsheet for the basic Vim Commands
 
-> this is normaly enough. Type `vimtutor` for more.
-
 ## Modes
 
 - Insert Mode: Entering with `i`
 - Visual Mode: Entering with `v`
 - Command Mode: Entering with `:`
 - Replace Mod: Entering with `:s`
+
+- Theoretically there are more Modes like 'x` and `-y` but they are ugly. So don't use them!
 
 ## Moving around
 
@@ -48,14 +48,12 @@ Cheatsheet for the basic Vim Commands
 - `A` moves the cursor to the end of the line with Insert Mode
 - `i` moves the cursor to the beginning of the character with Insert Mode
 - `i` moves the cursor to the end of the character with Insert Mode
-
 - `fx` moves to the first Character `x`
 - `Fx` moves to the first Character `x` backwards
 - `tx`ves to the first Character `x` but not on it, just before
 - `Tx` moves to the first Character `x` but not on it, just before, backwards
 - `,` do it again backwards
 - `;` do it again forwards
-
 - `gf` Jumps to an File (e.g. Open an Imported File -> import "path/to/file.lua")
 
 ## Edit Text
@@ -79,29 +77,24 @@ Cheatsheet for the basic Vim Commands
 - `p` Put Buffer after cursor
 - `gU` Uppercase
 - `gu` Lowercase
-
 - `df(` delete everything until the `(` Character
 - `dt(` delete everything before the `(` Character
 - `dF(` delete everything until the `(` Character but backwards
 - `dT(` delete everything before the `(` Character but backwards
 - `d,` do it again backwards
 - `d;` do it again forwards
-
 - `yf(` yank everything until the `(` Character
 - `yt(` yank everything before the `(` Character
 - `yF(` yank everything until the `(` Character but backwards
 - `yT(` yank everything before the `(` Character but backwards
 - `y,` do it again backwards
 - `y;` do it again forwards
-
 - `vf(` select everything until the `(` Character
 - `vt(` select everything before the `(` Character
 - `vF(` select everything until the `(` Character but backwards
 - `vT(` select everything before the `(` Character but backwards
 - `v,` do it again backwards
 - `v;` do it again forwards
-
-
 
 ## Exit Vim
 
