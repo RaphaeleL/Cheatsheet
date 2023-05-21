@@ -157,3 +157,8 @@ Cheatsheet for the basic Vim Commands
 - `p` Preview the File
 - `R` Rename the designated file(s)/directory(ies)
 - `-` Makes Netrw go up one directory
+
+## Macro
+
+- `q<letter><commands>q<letter>` Set Macro `<letter>` for `<command>`
+- `@<letter>` Call Macro `<letter>`
