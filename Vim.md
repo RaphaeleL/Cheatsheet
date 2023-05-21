@@ -104,16 +104,6 @@ Cheatsheet for the basic Vim Commands
 - `da}` Delete around Curly Brackets 
 - `dap` Delete around Paragraph 
 - `vaw` Visually select around word 
-
-## Exit Vim
-
-- `:q!` Force to Exit
-- `:q` Exit
-- `:wq` Write and Exit
-- `:wq` Write and Exit with Force
-
-### Delete
-
 - `dl` delete character (alias: `x`)
 - `diw` delete inner word
 - `daw` delete a word
@@ -129,6 +119,13 @@ Cheatsheet for the basic Vim Commands
 - `dap` delete a paragraph
 - `diB` delete inner '{' '}' block
 - `daB` delete a '{' '}' block
+
+## Exit Vim
+
+- `:q!` Force to Exit
+- `:q` Exit
+- `:wq` Write and Exit
+- `:wq` Write and Exit with Force
 
 ## Search and Replace
 
