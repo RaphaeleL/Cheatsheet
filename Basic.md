@@ -45,6 +45,18 @@ Cheatsheet for the basic Developer Commands. They are for Mac and Win. If you ar
     - Win `Ctrl + Z`
     - Mac `Cmd + Z`
 
+## Search in a File
+
+- Search 
+  - Win `Ctrl + S`
+  - Mac `Cmd + S`
+- Next occurence
+  - Win `Ctrl + S`
+  - Mac `Cmd + S`
+- Prev. occurence
+  - Win `Ctrl + R`
+  - Mac `Cmd + R`
+
 ## Text Editing 
 
 - Go to the right or to the beginning of next line break	
