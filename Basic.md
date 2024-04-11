@@ -4,8 +4,6 @@ Cheatsheet for the basic Developer Commands. They are for Mac and Win. If you ar
 
 > Raphaele Salvatore Licciardo, B.Sc.
 
-> Lars Baumann
-
 ## Basic Shortcuts 
 
 - Delete characters to the left
@@ -228,6 +226,18 @@ Cheatsheet for the basic Developer Commands. They are for Mac and Win. If you ar
     - Win `Ctrl + F`
     - Mac `Cmd + F`
 
+## Dired 
+
+- Open
+    - Win `Ctrl + x Ctrl + j`
+    - Mac `Cmd + x Cmd + j`
+- Open
+    - Win `Ctrl + x d`
+    - Mac `Cmd + x d`
+- Open
+    - Win `Ctrl + x Ctrl + d`
+    - Mac `Cmd + x Ctrl + d`
+
 ### Tab / Window Management 
 
 - Open a new tab
@@ -327,3 +337,5 @@ Cheatsheet for the basic Developer Commands. They are for Mac and Win. If you ar
 - Save screenshot of wanted area as file
     - Win ` `
     - Mac `Cmd + Shift + 4`
+
+
