@@ -44,6 +44,9 @@ Cheatsheet for the basic Developer Commands. They are for Mac and Win. If you ar
 - Undo text
     - Win `Ctrl + Z`
     - Mac `Cmd + Z`
+- Delete to the end of the Line 
+	- Win `Ctrl + k`
+	- Mac `Cmd + k`
 
 ## Search in a File
 
@@ -100,6 +103,14 @@ Cheatsheet for the basic Developer Commands. They are for Mac and Win. If you ar
 
 ## Text Selection
 
+- Select next Word
+	- `Meta + f`
+- Select complete Page
+	- `Meta + a`
+- Select function
+	- `Meta + d`
+- Select Paragraph
+	- `Meta-s`
 - Select characters to the left
     - Win `Shift + Left Arrow`
     - Mac `Shift + Left Arrow`

@@ -28,6 +28,7 @@
 - `C-x v` Copy
 - `C-x p` Paste
 - `C-x u` Undo
+- `C-k` Delete rest of the line
 
 ## Text Navigation Intermediate
 
