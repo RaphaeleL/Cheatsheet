@@ -98,6 +98,7 @@
 - `M-+` Increase Text Size
 - `M--` Decrease Text Size
 - `M-g g` Go-to Line
+- `C-x o` Navigate between Splits 
 
 ## Magit 
 
@@ -136,14 +137,8 @@
 ### Buffer Navigation
 - `C-<tab>` next-buffer
 - `C-<iso-lefttab>` previous-buffer
-- `C-c l` ibuffer
+- `C-c i` ibuffer
 - `C-c s` switch-to-buffer
-
-### Window Navigation
-- `C-x <left>` windmove-left
-- `C-x <right>` windmove-right
-- `C-x <up>` windmove-up
-- `C-x <down>` windmove-down
 
 ### Close window
 - `C-x 0` delete-window
@@ -154,7 +149,7 @@
 - `C-x c` shell-command
 - `C-c n` duplicate-line
 - `C-c d` delete-current-line
-- `C-c j` join-line
+- `C-x j` join-line
 
 ### Copy and Paste
 - `C-x v` simpleclip-copy
