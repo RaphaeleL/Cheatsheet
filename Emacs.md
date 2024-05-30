@@ -67,6 +67,8 @@
 - `C-xk` Delete Buffer
 - `C-xo` Switch Windows
 - `C-x d` Dired
+- `C-x C-j` Dired
+
 - `C-x m` Compile
 
 ## Windows 
