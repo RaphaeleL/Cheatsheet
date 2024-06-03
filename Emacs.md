@@ -131,7 +131,7 @@
 - `C-x .` dired
 
 ### Magit
-- `C-x g` magit-status
+- `C-c g` magit-status
 - `C-x C-g` magit-log-all
 
 ### Buffer Navigation
@@ -141,23 +141,19 @@
 - `C-c s` switch-to-buffer
 
 ### Close window
-- `C-x 0` delete-window
-- `C-x 1` delete-other-windows
+- `C-c 0` delete-window
+- `C-c 1` delete-other-windows
 
 ### Usefull Commands
-- `C-x m` compile
-- `C-x c` shell-command
+- `C-c m` compile
+- `C-c c` shell-command
 - `C-c n` duplicate-line
 - `C-c d` delete-current-line
-- `C-x j` join-line
+- `C-c j` join-line
 
 ### Copy and Paste
-- `C-x v` simpleclip-copy
-- `C-x p` simpleclip-paste
 - `C-c C-c` simpleclip-copy
 - `C-c C-v` simpleclip-paste
-- `C-c c` simpleclip-copy
-- `C-c v` simpleclip-paste
 
 ### Multi Cursor
 - `C-<` mc/mark-next-like-this
@@ -181,7 +177,7 @@
 - `C-c a` mark-whole-buffer
 
 ### Magit
-- `C-x g` magit
+- `C-c g` magit
 
 ### Selection
 - `M-w` mark-word
@@ -190,6 +186,6 @@
 - `M-s` mark-paragraph
 
 ### Line Numbers
-- `C-x C-l` global-display-line-numbers-mode
+- `C-c C-l` global-display-line-numbers-mode
 
 
