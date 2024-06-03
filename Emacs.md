@@ -173,8 +173,9 @@
 ### Undo
 - `M-z` undo
 
-### Mark Whole Buffer
-- `C-c a` mark-whole-buffer
+### Jumping
+- `C-c a` start of function
+- `C-c e` end of function
 
 ### Magit
 - `C-c g` magit
