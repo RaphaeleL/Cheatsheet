@@ -38,6 +38,8 @@
 - `C-u8C-f` Move forward 8 chars
 - `C-u2C-b` Move backward 2 chars
 
+- `C6n` Move 6 lines down
+
 - `C-u20w` Insert 20 'w's
 
 ## Text Editing
