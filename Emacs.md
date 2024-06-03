@@ -138,7 +138,7 @@
 - `C-<tab>` next-buffer
 - `C-<iso-lefttab>` previous-buffer
 - `C-c i` ibuffer
-- `C-c s` switch-to-buffer
+- `C-c l` switch-to-buffer
 
 ### Close window
 - `C-c 0` delete-window
@@ -146,14 +146,14 @@
 
 ### Usefull Commands
 - `C-c m` compile
-- `C-c c` shell-command
+- `C-c s` shell-command
 - `C-c n` duplicate-line
 - `C-c d` delete-current-line
 - `C-c j` join-line
 
 ### Copy and Paste
-- `C-c C-c` simpleclip-copy
-- `C-c C-v` simpleclip-paste
+- `C-c c` simpleclip-copy
+- `C-c v` simpleclip-paste
 
 ### Multi Cursor
 - `C-<` mc/mark-next-like-this
