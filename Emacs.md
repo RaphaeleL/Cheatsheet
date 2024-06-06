@@ -109,7 +109,7 @@
 - `cc` git add <file>
     - Type in the Commit Message, save and leave
 - `pp` git push 
-- `C-x g` Magit
+- `C-c g` Magit
 - `S` Git add all
 - `cc` Git Commit
 - `C-c C-c` Leave Git Commit Message
@@ -128,9 +128,13 @@
 ## Custom
 
 ### Dired
-- `C-x d` dired 
-- `C-x C-d` dired
-- `C-x .` dired
+- `C-c d` dired 
+- `C-c C-d` dired
+- `C-c .` dired
+
+### Swaping / Transposing Words
+- `C-c t` transpose-words
+- `C-t` transpose-chars
 
 ### Magit
 - `C-c g` magit-status
