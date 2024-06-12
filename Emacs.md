@@ -53,6 +53,7 @@
 
 - `C-c c` Copy 
 - `C-c p` Paste 
+
 - `M-w` mark-word
 - `M-a` mark-page
 - `M-F` mark-defun
@@ -128,9 +129,9 @@
 ## Custom
 
 ### Dired
-- `C-c d` dired 
-- `C-c C-d` dired
-- `C-c .` dired
+- `C-x d` dired 
+- `C-x C-d` dired
+- `C-x .` dired
 
 ### Swaping / Transposing Words
 - `C-c t` transpose-words
