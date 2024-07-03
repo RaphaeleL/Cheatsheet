@@ -118,13 +118,18 @@
 
 ## Dired
 
-- `C  Compress
+- `C`  Compress
 - `+` Create Dir
 - `D` Mark to Delete
 - `m` Mark
 - `R` Rename, Move (if a file is marked)
 - `C-ud` Delete a File
 - `C-xC-f` Create a File
+
+## LSP
+
+- `M .` Jump to Definition
+- `M ,` Jump back from Definition
 
 ## Custom
 
