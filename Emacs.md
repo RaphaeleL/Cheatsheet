@@ -19,6 +19,8 @@
 - `M-<` Start Multiple Cursors below 
 - `M->` Start Multiple Cursors above
 
+- `M-s` Set a Mark (selecting)
+
 ## Text Editing Beginner
 
 - `BACKSPACE` Delete previous char
