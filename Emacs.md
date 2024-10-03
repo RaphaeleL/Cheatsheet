@@ -61,6 +61,9 @@
 - `M-F` mark-defun
 - `M-s` mark-paragraph
 
+- `C-M-n` Move forward over a parenthetical group
+- `C-M-p` Move backward over a parenthetical group
+
 ## File Management
 
 - `C-xC-f` Find a file
